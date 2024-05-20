@@ -11,6 +11,9 @@ toc_icon: "gear"
 ---
 
 ### PUBLICATIONS
+- <strong>Tanya Y. Tian</strong> and Edward B. Smith, “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, Forthcoming
+  <br>
+  
 - <strong>Tanya Y. Tian</strong>, Brayden King, and Edward B. Smith (2023), “Effect of Organizational Status on Employment-related Corporate Social Responsibility: Evidence from a Regression Discontinuity Approach”, Strategic Management Journal, 44(12), 2833-2857.
   <br>
   <ol>
@@ -20,7 +23,6 @@ toc_icon: "gear"
 - Yang Yang, <strong>Tanya Y. Tian</strong>, Teresa K. Woodruff, Benjamin F. Jones, and Brian Uzzi (2022), “Gender-diverse teams produce more novel and higher-impact scientific ideas”, Proceedings of the National Academy of Sciences, 119(36), e2200841119.
 
 ### SELECT WORKING PAPERS
-- <strong>Tanya Y. Tian</strong> and Edward B. Smith, “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, (Accepted, Administrative Science Quarterly)
 - “Social Media and Science.” (with Benjamin F. Jones, Brian Uzzi, and Yang Yang)
 - “Performance Incentives and Organizational Sustainability.” (with Julia Hur and Linhui Wu)
   <br>
