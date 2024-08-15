@@ -11,7 +11,7 @@ toc_icon: "gear"
 ---
 
 ### PUBLICATIONS
-- <strong>Tanya Y. Tian</strong> and Edward B. Smith (2024), “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, Forthcoming
+- <strong>Tanya Y. Tian</strong> and Edward B. Smith (2024), “Stretched Thin: How A Misalignment Between Allocation and Valuation Underlies the Paradox of Diversity Achievement in Higher Education”, Administrative Science Quarterly, 69(3), 711-746
   <br>
   
 - <strong>Tanya Y. Tian</strong>, Brayden King, and Edward B. Smith (2023), “Effect of Organizational Status on Employment-related Corporate Social Responsibility: Evidence from a Regression Discontinuity Approach”, Strategic Management Journal, 44(12), 2833-2857.
